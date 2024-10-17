@@ -1,0 +1,27 @@
+body {
+  background-color: #000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+  padding: 2em;
+  border-radius: 10px;
+}
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #3d3deb;
+}
+#btn {
+  background-color: #3d3deb;
+  color: #000000;
+  border-radius: 5px;
+}
+#gif {
+  text-align: center;
+}
